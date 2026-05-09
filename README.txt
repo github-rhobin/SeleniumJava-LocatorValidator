@@ -1,7 +1,8 @@
-# How to use? 
+## Guidelines:
 
-Step 1: Add your Page Object java files inside the "pageobjects" folder.
-Step 2: Make sure each of your Page Object java files have this format:
+#### Step 1: Add your Page Object java files inside the "pageobjects" folder.
+
+#### Step 2: Make sure each of your Page Object java files have this format:
 
 ```bash
 import lines
@@ -22,5 +23,6 @@ Page Methods (optional)
 }
 ```
 
-Step 3: Double-click the batch-script "run-validator.bat" file to start the locator validation process.
-Step 4: Check the HTML report for results.
+#### Step 3: Double-click the batch-script "run-validator.bat" file to start the locator validation process.
+
+#### Step 4: Check the HTML report for results.
